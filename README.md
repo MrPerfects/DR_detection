@@ -4,3 +4,4 @@ kaggle tf
 Read_data.py 读取不同文件下的文件，并修改文件名
 
 ![CLAHE](https://github.com/wangzhongzhen/DR_detection/blob/master/show.jpg)
+![CLAHE](https://github.com/wangzhongzhen/DR_detection/blob/master/show2.jpg)
